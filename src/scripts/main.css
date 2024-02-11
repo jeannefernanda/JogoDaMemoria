@@ -89,7 +89,7 @@ h2 {
     transform: rotateY(0deg);
 }
 
-.boxOpen::after {
+.boxOpen::after,
 .boxMatch::after {
     transform: rotateY(180deg);
 }
